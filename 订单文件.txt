@@ -1,0 +1,5 @@
+date£º1interval£º1stuid£º1stuname£º1roomid£º 1status£º1
+date£º1interval£º1stuid£º1stuname£º1roomid£º 1status£º1
+date£º 1interval£º 2stuid£º 1stuname£º 1roomid£º  2status£º 1
+date£º2 interval£º2 stuid£º1 stuname£º1roomid£º 2 status£º1
+date£º1 interval£º1 stuid£º3 stuname£º¿ªroomid£º 1 status£º1
