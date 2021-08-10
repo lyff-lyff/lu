@@ -46,6 +46,21 @@
 		font-weight: bold;
 		cursor: pointer;
 	}
+	.lefts{
+		display: inline-block;
+		width: 40%;
+		height: 40px;
+		background-color: yellow;
+		border-color: #4cae4c;
+		margin-top: 7%;
+		border-radius: 5px;
+		line-height: 40px;
+		font-size: 16px;
+		font-weight: bold;
+		cursor: pointer;
+		text-align:center
+		
+	}
 	.left:hover{
 		background-color:#328732;
 		
@@ -109,6 +124,21 @@
 		font-size: 18px;
 		font-weight: bold;
 		cursor: pointer;
+	}
+	.lefts{
+		display: inline-block;
+		width: 40%;
+		height: 40px;
+		background-color: yellow;
+		border-color: #4cae4c;
+		margin-top: 7%;
+		border-radius: 5px;
+		line-height: 40px;
+		font-size: 16px;
+		font-weight: bold;
+		cursor: pointer;
+		text-align:center
+		
 	}
 	.left:hover{
 		background-color:#328732;
